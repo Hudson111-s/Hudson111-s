@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hudson111-s
 
-<!--
-**Hudson111-s/Hudson111-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Just a developer trying to make useful, cool, and performant projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Facts about me
+
+- I like building tools and doing system work
+- I use Neovim, btw (VSCode and VS are cool too)
+- I write most of my code in C and Python
+- I develop on both Windows and Linux
+- Currently a student
