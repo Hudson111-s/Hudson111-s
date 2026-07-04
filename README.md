@@ -1,8 +1,6 @@
 # Hudson111-s
 
-
 Just a developer trying to make useful, cool, and performant projects.
-
 
 ## Facts about me
 
